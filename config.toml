@@ -59,14 +59,13 @@ copyright = "© {year}"
 # Controls the navigation
 [[menu.main]]
   identifier = "about"
-  name = "about"
+  name = "About"
   title = "About"
   url = "/"
 
 [[menu.main]]
   identifier = "til"
-  name = "til"
+  name = "Today I Learned"
   title = "TIL"
   url = "/til"
-
 

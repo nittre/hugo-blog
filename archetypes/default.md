@@ -9,7 +9,7 @@ date: {{ .Date }}
 # The post filename
 slug: ""
 # Post description used for seo
-description: ""
+summary: ""
 # Post keywords used for seo
 keywords: []
 # If true, the blog post will not be included in static build
