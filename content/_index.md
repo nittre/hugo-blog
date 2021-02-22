@@ -1,5 +1,5 @@
 ---
 heading: '매일의 공부'
-subheading: 'Today I Learned and Felt...'
+subheading: 'everyday.reduce((knowledge, today) => knowledge + today)'
 handle: 'Youjin Lee'
 ---
